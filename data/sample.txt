@@ -1,0 +1,5 @@
+FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
+
+SentenceTransformers provides an easy method to compute dense vector representations for sentences and paragraphs using pre-trained transformer models.
+
+FAISS is a library for efficient similarity search and clustering of dense vectors.
